@@ -1,5 +1,7 @@
 # EZ Laravel ModelServices
 
+[![StyleCI](https://github.styleci.io/repos/261331213/shield?branch=master)](https://github.styleci.io/repos/261331213)
+
 This package provides some default service functionality for services based on Models. I tend to use these a lot as a kind of Repository class.
 
 I also ran into the issue of (deep) collections not properly rendering to JSON when used in Vue components. So instead of relying on whatever Laravel's doing in the background I decided to manually define my extra properties using a preload method in my model services which handles adding/editing attributes I need in my Vue components.

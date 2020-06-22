@@ -1,6 +1,6 @@
 <?php
 
-namespace Tessify\Core\Contracts;
+namespace EZ\ModelServices\Contracts;
 
 interface ModelServiceContract
 {

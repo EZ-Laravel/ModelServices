@@ -19,7 +19,7 @@
         }
     },
     "require": {
-        "illuminate/support": "~7.0"
+        "illuminate/support": "~8.0"
     },
     "require-dev": {},
     "extra": {
